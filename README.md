@@ -1,12 +1,5 @@
-# <Center> Hi 🙋‍♂️, I'm Saurabh Joshi
-#### <Center>  Backend Developer [@Infosys](https://github.com/Infosys)
----------------
-
-
-- 🌱 I’m currently learning **React, DSA, Java and Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamSj191](https://github.com/iamSj191)
-
-
-- **I love to listen to music and when I'm not coding I usually spend my time playing Guitar 😎**
-
+# 🙋‍♂️ I'm Saurabh Joshi
+- 💼 Backend Dev [@Infosys](https://github.com/Infosys)
+- ✍️ Content Creator
+- 📚 Exploring more into `Java`, `Spring boot` and `React`
+- 🎸 I love playing Guitar.
